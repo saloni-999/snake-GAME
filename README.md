@@ -1,2 +1,2 @@
 # snake-GAME
-![Game screenshot](screenshot.png)
+![Game screenshot](screenshot.PNG)
